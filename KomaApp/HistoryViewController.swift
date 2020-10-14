@@ -9,7 +9,7 @@
 import UIKit
 //import SDWebImage
 
-class HistoryViewController: UIViewController,UITableViewDelegate,UITableViewDataSource{
+class HistoryViewController: UIViewController/*,UITableViewDelegate,UITableViewDataSource*/{
     
     
     
@@ -24,6 +24,8 @@ class HistoryViewController: UIViewController,UITableViewDelegate,UITableViewDat
     var createdDate = String()
     var imageString = String()
     
+    
+    /*
     //subClassのインスタンス
     var contentsArray = [Contents]()
     
@@ -62,6 +64,7 @@ class HistoryViewController: UIViewController,UITableViewDelegate,UITableViewDat
     }
     
 
-    
+*/
 
 }
+
