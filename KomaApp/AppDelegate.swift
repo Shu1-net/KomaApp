@@ -1,3 +1,4 @@
+// いわおです｡
 //
 //  AppDelegate.swift
 //  KomaApp
