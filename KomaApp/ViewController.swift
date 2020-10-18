@@ -97,7 +97,7 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
         
         //なにも入力されなかった場合
         if textField.text == "" {
-            showAlert(message: "aaaaaaa")
+            showAlert(message: "出川哲朗")
             
         } else {
         //なにか入力された場合
