@@ -23,6 +23,8 @@ struct KomaData {
     //サイズ調整
     
 // Database用
+
+/*
 class Contents{
     var createdDate: String = ""
     var imageString: String = ""
@@ -34,3 +36,4 @@ class Contents{
     }
     
 }
+*/

@@ -131,7 +131,7 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
                            
                            textField.text = ""
                 //fontとsizeの値を指定
-                //textLabel.font = UIFont(name: "\(font)", size: CGFloat(size))
+                textLabel.font = UIFont(name: "family: ,\(String(describing: font))", size: CGFloat(size))
                 //siseだけ
                 textLabel.font = textLabel.font.withSize(CGFloat(size!))
             }//pickerのnilチェックのif
